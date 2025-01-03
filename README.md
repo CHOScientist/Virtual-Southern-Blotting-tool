@@ -7,7 +7,6 @@ This repository provides a combined Python and R tool for:
 ## Contents
 - `Targeting_fragment_size.py`: A Python script with subcommands for calculating enzyme distances.
 - `Virtual_Southern_Blotting.R`: An R script that handles plotting and optional size-to-position conversions.
-- `examples/`: Directory containing sample CSV data for demonstration (optional).
 
 ## Requirements
 - Python 3.8 or higher, and R 4.0 or higher.
@@ -16,4 +15,4 @@ This repository provides a combined Python and R tool for:
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YourUsername/EnzymeDistanceTool.git
+   git clone https://github.com/YourUsername/Virtual-Southern-Blotting-tool.git
